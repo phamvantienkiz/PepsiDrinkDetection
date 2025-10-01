@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 60
+names: ['7up_chai_1500ml', '7up_chai_390ml', '7up_chai_600ml', '7up_lon_320ml', '7up_soda_chanh_lon_320ml', 'aquafina_chai_1500ml', 'aquafina_chai_355ml', 'aquafina_chai_5000ml', 'aquafina_chai_500ml', 'aquafina_soda_lon', 'boss_cafe_lon', 'goodmood_sua_chua_chai', 'goomood_dau_chai', 'mirinda_cam_chai_1500ml', 'mirinda_cam_chai_390ml', 'mirinda_cam_lon_320ml', 'mirinda_dua_chai_1500ml', 'mirinda_dua_chai_390ml', 'mirinda_dua_lon_320ml', 'mirinda_sarsi_chai_1500ml', 'mirinda_sarsi_chai_390ml', 'mirinda_sarsi_lon_320ml', 'mirinda_soda_kem_chai_1500ml', 'mirinda_soda_kem_chai_390ml', 'mirinda_soda_kem_lon_320ml', 'pepsi_chai_1500ml', 'pepsi_chai_390ml', 'pepsi_chai_600', 'pepsi_khong_calo_chai_390ml', 'pepsi_khong_calo_lon_320ml', 'pepsi_khong_calo_phuc_bon_tu_lon_320ml', 'pepsi_lon_320ml', 'pepsi_vi_chanh_khong_calo_chai_1500ml', 'pepsi_vi_chanh_khong_calo_chai_390ml', 'pepsi_vi_chanh_khong_calo_lon_320ml', 'revive_chai_trang', 'revive_chanh_muoi_chai', 'revive_khong_calo', 'rockstart_lon', 'sting_do_chai_390ml', 'sting_do_chai_500ml', 'sting_do_lon_320ml', 'sting_vang_chai_390ml', 'sting_vang_lon_320ml', 'sting_viet_quat_lon_320ml', 'tea_chanh_chai_1l', 'tea_chanh_chai_330ml', 'tea_chanh_chai_450ml', 'tea_dao_nhiet_doi_chai_1l', 'tea_dao_nhiet_doi_chai_450ml', 'tea_khong_calo_chai_450ml', 'tea_nguyen_ban_chai_1l', 'tea_nguyen_ban_chai_330ml', 'tea_nguyen_ban_chai_450ml', 'tea_olong_xanh_chai_1l', 'tea_olong_xanh_chai_450ml', 'twister_cam_chai_1l', 'twister_cam_chai_390ml', 'twister_cam_chai_450ml', 'twister_cam_lon_320ml']
+
+roboflow:
+  workspace: jinlearn
+  project: drink_detection_vn-z4vpu
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jinlearn/drink_detection_vn-z4vpu/dataset/4

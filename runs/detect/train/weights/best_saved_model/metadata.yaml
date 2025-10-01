@@ -1,0 +1,73 @@
+description: Ultralytics YOLO11n model trained on data.yaml
+author: Ultralytics
+date: '2025-10-01T11:55:13.725919'
+version: 8.3.50
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: 7up_chai_1500ml
+  1: 7up_chai_390ml
+  2: 7up_chai_600ml
+  3: 7up_lon_320ml
+  4: 7up_soda_chanh_lon_320ml
+  5: aquafina_chai_1500ml
+  6: aquafina_chai_355ml
+  7: aquafina_chai_5000ml
+  8: aquafina_chai_500ml
+  9: aquafina_soda_lon
+  10: boss_cafe_lon
+  11: goodmood_sua_chua_chai
+  12: goomood_dau_chai
+  13: mirinda_cam_chai_1500ml
+  14: mirinda_cam_chai_390ml
+  15: mirinda_cam_lon_320ml
+  16: mirinda_dua_chai_1500ml
+  17: mirinda_dua_chai_390ml
+  18: mirinda_dua_lon_320ml
+  19: mirinda_sarsi_chai_1500ml
+  20: mirinda_sarsi_chai_390ml
+  21: mirinda_sarsi_lon_320ml
+  22: mirinda_soda_kem_chai_1500ml
+  23: mirinda_soda_kem_chai_390ml
+  24: mirinda_soda_kem_lon_320ml
+  25: pepsi_chai_1500ml
+  26: pepsi_chai_390ml
+  27: pepsi_chai_600
+  28: pepsi_khong_calo_chai_390ml
+  29: pepsi_khong_calo_lon_320ml
+  30: pepsi_khong_calo_phuc_bon_tu_lon_320ml
+  31: pepsi_lon_320ml
+  32: pepsi_vi_chanh_khong_calo_chai_1500ml
+  33: pepsi_vi_chanh_khong_calo_chai_390ml
+  34: pepsi_vi_chanh_khong_calo_lon_320ml
+  35: revive_chai_trang
+  36: revive_chanh_muoi_chai
+  37: revive_khong_calo
+  38: rockstart_lon
+  39: sting_do_chai_390ml
+  40: sting_do_chai_500ml
+  41: sting_do_lon_320ml
+  42: sting_vang_chai_390ml
+  43: sting_vang_lon_320ml
+  44: sting_viet_quat_lon_320ml
+  45: tea_chanh_chai_1l
+  46: tea_chanh_chai_330ml
+  47: tea_chanh_chai_450ml
+  48: tea_dao_nhiet_doi_chai_1l
+  49: tea_dao_nhiet_doi_chai_450ml
+  50: tea_khong_calo_chai_450ml
+  51: tea_nguyen_ban_chai_1l
+  52: tea_nguyen_ban_chai_330ml
+  53: tea_nguyen_ban_chai_450ml
+  54: tea_olong_xanh_chai_1l
+  55: tea_olong_xanh_chai_450ml
+  56: twister_cam_chai_1l
+  57: twister_cam_chai_390ml
+  58: twister_cam_chai_450ml
+  59: twister_cam_lon_320ml
