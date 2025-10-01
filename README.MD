@@ -260,9 +260,9 @@ Below are the comparison results between the original PyTorch model (`best.pt`) 
 
 The model has been successfully deployed on mobile application using **Flutter** framework with TensorFlow Lite.
 
-### Demo Video
+### Mobile Demo
 
-![Mobile Demo](output/mobile_test.mp4)
+![Mobile Demo](output/mobile.gif)
 
 _Video demo of mobile app detecting PepsiCo products in real-time_
 
